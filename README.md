@@ -12,7 +12,7 @@ The dataset is present in the 'dataset' folder and contains two folders in it:
 1. with_mask: Having 1915 images in it
 2. without_mask: Having 1918 images in it.
 
-https://github.com/piyushsharma220699/Face-Mask-Detection-Using-Hardware/blob/main/other_images/dataset_snip.png
+![Dataset](https://github.com/piyushsharma220699/Face-Mask-Detection-Using-Hardware/blob/main/other_images/dataset_snip.png)
 
 ## How to run the code?:
 
@@ -21,5 +21,5 @@ https://github.com/piyushsharma220699/Face-Mask-Detection-Using-Hardware/blob/ma
 2. Open Anaconda Navigator to download all the dependencies required for the project (all the requirements are listed under the project_requirements.txt file):
 -> Just go to your directory in the Navigator, and run "pip install -r project_requirements.txt" command.
 
-https://github.com/piyushsharma220699/Face-Mask-Detection-Using-Hardware/blob/main/other_images/anaconda_prompt.png
+![Anaconda Prompt](https://github.com/piyushsharma220699/Face-Mask-Detection-Using-Hardware/blob/main/other_images/anaconda_prompt.png)
 
