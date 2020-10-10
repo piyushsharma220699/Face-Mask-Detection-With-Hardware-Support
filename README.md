@@ -23,3 +23,7 @@ The dataset is present in the 'dataset' folder and contains two folders in it:
 
 ![Anaconda Prompt](https://github.com/piyushsharma220699/Face-Mask-Detection-Using-Hardware/blob/main/other_images/anaconda_prompt.png)
 
+3. Then in Anaconda: 
+Open Jupyter Notebook,
+Go to creating_model.ipynb and run all the cells!
+(This might take a few minutes to run the file and create the model)
