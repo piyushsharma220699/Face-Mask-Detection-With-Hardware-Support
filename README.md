@@ -7,7 +7,7 @@ The novel Coronavirus has devastated the world in the past couple of months. The
 ## About the Dataset:
 The dataset is present in the 'dataset' folder and contains two folders in it:
 1. with_mask: Having 1915 images in it
-2. without_mask: Having 1918 images in it.
+2. without_mask: Having 1975 images in it.
 
 ![Dataset](https://github.com/piyushsharma220699/Face-Mask-Detection-Using-Hardware/blob/main/other_images/dataset_snip.png)
 
