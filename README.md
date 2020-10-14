@@ -1,7 +1,7 @@
 # Face Mask Detection With Hardware Support
 
 ## Project Purpose and Goal
-WHO has advised the use of masks as a part of a comprehensive package of the prevention and control measures that can limit the spread of certain respiratory viral diseases, including COVID-19. Masks can be used either for protection of healthy persons or for source control (worn by an infected individual to prevent onward transmission). Therefore, the widespread use of masks will reduce the number of cases and deaths around the world.
+WHO has advised the use of masks as a part of a comprehensive package of the prevention and control measures that can limit the spread of certain respiratory viral diseases, including COVID-19. Masks can be used either for protection of healthy persons or for source control (worn by an infected individual to prevent onward transmission). Therefore, the widespread use of masks has become mandatory and will reduce the number of cases and deaths due to respiratory diseases around the world.
 However, along with wearing the mask, the way in which the mask is worn also matters. Many people wear the mask in wrong manner, which actually is of no use as they are still in a position to get infected. So, I came up with a way to solve this— Face Mask Detector and Validator. This system can be used in shopping malls, offices, schools, and railway stations where masks are mandatory. 
 The machine is built from using Convolution Neural Network model and performs the following tasks:
 1. It Tells if the person is wearing mask or not
