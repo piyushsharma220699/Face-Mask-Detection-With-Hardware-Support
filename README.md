@@ -16,7 +16,7 @@ So overall, the dataset, present in the 'dataset' folder of the repository conta
 1. with_mask: Having 3719 images in it
 2. without_mask: Having 3737 images in it.
 
-## How to run the code?:
+## How to Run the Code?:
 
 1. Install Anaconda from https://docs.anaconda.com/anaconda/install/windows/ : Installing Anaconda means you are getting a version of Python installed (Anaconda has Python + >450 modules)
 
