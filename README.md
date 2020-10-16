@@ -28,4 +28,10 @@ So overall, the dataset, present in the 'dataset' folder of the repository conta
 3. Then in Anaconda: 
 Open Jupyter Notebook,
 Go to creating_model.ipynb and run all the cells!
-(This might take a few minutes to run the file and create the model)
+(This might take a few minutes to run the file and create the model) After it has run completely, It will create a mask_detector.model file and epoch_vs_accuracy_plot.png image file.
+This means that the model is created, now you're supposed to run all the check_video.ipynb file. You will be able to see the output on the screen.
+
+Now, for hardware connectivity, we're supposed to buy three things:
+1. Arduino Uno: https://www.amazon.in/gp/product/B06XBMB9T1/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&psc=1
+2. Arduino Buzzer: https://www.amazon.in/gp/product/B077QJZ9Y2/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+3. LEDs: https://www.amazon.in/gp/product/B07L8HZS2Q/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
